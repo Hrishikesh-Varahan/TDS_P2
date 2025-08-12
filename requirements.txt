@@ -2,6 +2,8 @@ fastapi
 uvicorn
 openai
 python-dotenv
-zipfile36
 python-multipart
-pandas 
+pandas
+matplotlib
+seaborn
+pyarrow
